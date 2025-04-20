@@ -46,10 +46,6 @@ Data was split into training, validation, and test sets using provided `train/so
 | ResNet50       | ~97.9%   | 0.979     | 0.979  | 0.979    |
 | EfficientNetB0 | ~98.1%   | 0.981     | 0.981  | 0.981    |
 
-## Visuals
-
-- Plots of training vs validation loss and accuracy for all models.
-- Bar chart comparing model performance metrics.
 
 ## Conclusion
 
