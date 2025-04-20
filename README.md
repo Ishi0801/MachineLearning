@@ -11,7 +11,7 @@ This project focuses on detecting frost in high-resolution Martian terrain image
 - **Classes**: Binary classification — `frost` or `background`.
 - **Total tiles**: ~119,920
 
-Data was split into training, validation, and test sets using provided `train source images.txt`, `test source images.txt`, and `val source images.txt` files.
+Data was split into training, validation, and test sets using provided `train/source/images.txt`, `test/source/images.txt`, and `val/source/images.txt` files.
 
 ## Project Structure
 
